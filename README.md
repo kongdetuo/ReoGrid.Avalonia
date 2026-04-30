@@ -1,3 +1,8 @@
+> ⚠️ **This repository is deprecated / archived**  
+> This fork has been moved to a new independent repository. All future development, issues, and PRs should go to:  
+> **👉 [Calcita](https://github.com/kongdetuo/Calcita)**  
+> This fork is no longer maintained and kept for archival purposes only.
+
 # ReoGrid
 
 ![NuGet](https://img.shields.io/nuget/v/unvell.ReoGrid.DLL.svg)
